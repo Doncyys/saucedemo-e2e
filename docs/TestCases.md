@@ -1,6 +1,6 @@
 # Test Cases for Saucedemo website
 
-## TS.1 Login and Authentication
+## <a id="ts1"></a>TS.1 Login and Authentication
 
 ### TC.1.1 Verify Login Page UI Elements Loaded
 1. Navigate to `https://www.saucedemo.com/`
@@ -106,7 +106,7 @@
 
 ---
 
-## TS.2 Inventory page
+## <a id="ts2"></a>TS.2 Inventory page
 
 ### TC.2.1 Verify Inventory Page Static Elements Are Loaded
 **Preconditions:**
@@ -321,7 +321,7 @@
 
 ---
 
-## TS.3 Cart Operations
+## <a id="ts3"></a>TS.3 Cart Operations
 
 ### TC.3.1 Verify Adding Single Product to Cart from Inventory
 **Preconditions:**
@@ -464,7 +464,7 @@
 
 --- -->
 
-## TS.4 Checkout
+## <a id="ts4"></a>TS.4 Checkout
 
 ### TC.4.1 Verify Checkout Button Disabled or Redirects When Cart Is Empty
 **Preconditions:**
@@ -602,7 +602,7 @@
 
 ---
 
-## TS.5 Logout and Session Management
+## <a id="ts5"></a>TS.5 Logout and Session Management
 
 ### TC.5.1 Verify Logout From Inventory Page
 **Preconditions:**
@@ -691,7 +691,7 @@
 
 ---
 
-## TS.6 Negative & Edge Case Scenarios
+## <a id="ts6"></a>TS.6 Negative & Edge Case Scenarios
 
 ### TC.6.1 Verify Emoji Only in Name Fields
 **Preconditions:**

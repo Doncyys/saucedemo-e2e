@@ -97,13 +97,12 @@ saucedemo-e2e/
 
 See [TestCases](./docs/TestCases.md) for full list of scenarios and steps:
 
-- [**TS.1** Login & Authentication](./docs/TestCases.md#ts1-login--authentication)
-- [**TS.2** Product Browsing & Sorting](./docs/TestCases.md#ts2-product-browsing--sorting)
-- [**TS.3** Cart Operations](./docs/TestCases.md#ts3-cart-operations)
-- [**TS.4** Checkout & Order Flow](./docs/TestCases.md#ts4-checkout--order-flow)
-- [**TS.5** Logout & Session Management](./docs/TestCases.md#ts5-logout--session-management)
-- [**TS.6** Negative & Edge Cases](./docs/TestCases.md#ts6-negative--edge-cases)
-
+- [**TS.1** Login & Authentication](./docs/TestCases.md#ts1)
+- [**TS.2** Product Browsing & Sorting](./docs/TestCases.md#ts2)
+- [**TS.3** Cart Operations](./docs/TestCases.md#ts3)
+- [**TS.4** Checkout & Order Flow](./docs/TestCases.md#ts4)
+- [**TS.5** Logout & Session Management](./docs/TestCases.md#ts5)
+- [**TS.6** Negative & Edge Cases](./docs/TestCases.md#ts6)
 ---
 
 ## <a id="jira-board"></a>📊 Jira Board
