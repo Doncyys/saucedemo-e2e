@@ -84,7 +84,7 @@ saucedemo-e2e/
 │       └── e2e.js
 ├── docs/
 │   ├── jira.png
-    ├── login-page.png
+│   ├── login-page.png
 │   └── TestCases.md
 ├── node_modules/
 ├── cypress.config.js
