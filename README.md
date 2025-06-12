@@ -7,19 +7,19 @@
 <details>
 <summary>Table of Contents</summary>
 
-- 📰 [About The Project](#%F0%9F%93%B0-about-the-project)  
-- 🛠️ [Built With](#%F0%9F%9B%A0%EF%B8%8F-built-with)  
-- 🚀 [Getting Started](#%F0%9F%9A%80-getting-started)  
-- 📁 [Project Structure](#%F0%9F%93%81-project-structure)  
-- 🧪 [Test Cases](#%F0%9F%A7%AA-test-cases)  
-- 📊 [Jira Board](#%F0%9F%93%8A-jira-board)  
-- 📄 [License](#%F0%9F%93%84-license)  
+- 📰 [About The Project](#about-the-project)  
+- 🛠️ [Built With](#built-with)  
+- 🚀 [Getting Started](#getting-started)  
+- 🗂️ [Project Structure](#project-structure)  
+- 🧪 [Test Cases](#test-cases)  
+- 📊 [Jira Board](#jira-board)  
+- 📄 [License](#license)   
 
 </details>
 
 ---
 
-## 📰 About The Project
+## <a id="about-the-project"></a>📰 About The Project
 
 ![SauceDemo Login Page](docs/login-page.png)
 
@@ -27,7 +27,7 @@ A Cypress-based QA suite that automates and verifies SauceDemo’s critical work
 
 
 
-## 🛠️ Built With
+## <a id="built-with"></a>🛠️ Built With
 
 - [Cypress](https://www.cypress.io/)  
 - [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)  
@@ -35,7 +35,7 @@ A Cypress-based QA suite that automates and verifies SauceDemo’s critical work
 
 
 
-## 🚀 Getting Started
+## <a id="getting-started"></a>🚀 Getting Started
 
 ### Dependencies
 
@@ -66,7 +66,7 @@ A Cypress-based QA suite that automates and verifies SauceDemo’s critical work
 
 ---
 
-## 📁 Project Structure
+## <a id="project-structure"></a>📁 Project Structure
 
 ```
 saucedemo-e2e/
@@ -93,7 +93,7 @@ saucedemo-e2e/
 
 ---
 
-## 🧪 Test Cases
+## <a id="test-cases"></a>🧪 Test Cases
 
 See [TestCases](./docs/TestCases.md) for full list of scenarios and steps:
 
@@ -106,7 +106,7 @@ See [TestCases](./docs/TestCases.md) for full list of scenarios and steps:
 
 ---
 
-## 📊 Jira Board
+## <a id="jira-board"></a>📊 Jira Board
 
 All test cases are tracked in a Jira Sprint:
 
@@ -117,7 +117,7 @@ All test cases are tracked in a Jira Sprint:
 
 ---
 
-## 📄 License
+## <a id="license"></a>📄 License
 
 This project is for educational purposes only.  
 SauceDemo is owned and maintained by [Sauce Labs](https://saucelabs.com/).
