@@ -7,13 +7,13 @@
 <details>
 <summary>Table of Contents</summary>
 
-- 📰 [About The Project](#📰-about-the-project)
-- 🛠️ [Built With](#🛠️-built-with)
-- 🚀 [Getting Started](#🚀-getting-started)
-- 🗂️ [Project Structure](#🗂️-project-structure)
-- 🧪 [Test Cases](#🧪-test-cases)
-- 📊 [Jira Board](#📊-jira-board)
-- 📄 [License](#📄-license)
+- 📰 [About The Project](#%F0%9F%93%B0-about-the-project)  
+- 🛠️ [Built With](#%F0%9F%9B%A0%EF%B8%8F-built-with)  
+- 🚀 [Getting Started](#%F0%9F%9A%80-getting-started)  
+- 📁 [Project Structure](#%F0%9F%93%81-project-structure)  
+- 🧪 [Test Cases](#%F0%9F%A7%AA-test-cases)  
+- 📊 [Jira Board](#%F0%9F%93%8A-jira-board)  
+- 📄 [License](#%F0%9F%93%84-license)  
 
 </details>
 
