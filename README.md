@@ -1,5 +1,5 @@
 ![Status](https://img.shields.io/badge/status-complete-ok?style=flat)
-![Cypress](https://img.shields.io/badge/Cypress-14.x-blue)
+![Cypress](https://img.shields.io/badge/Cypress-14.x-blue?style=flat&logo=cypress&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=flat&logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/license-Educational-lightgrey)
 
@@ -7,13 +7,13 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [About The Project](#about-the-project)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Test Cases](#test-cases)
-- [Jira board](#jira-board)
-- [License](#license)
+- 📰 [About The Project](#📰-about-the-project)
+- 🛠️ [Built With](#🛠️-built-with)
+- 🚀 [Getting Started](#🚀-getting-started)
+- 🗂️ [Project Structure](#🗂️-project-structure)
+- 🧪 [Test Cases](#🧪-test-cases)
+- 📊 [Jira Board](#📊-jira-board)
+- 📄 [License](#📄-license)
 
 </details>
 
